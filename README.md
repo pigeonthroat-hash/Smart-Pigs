@@ -524,7 +524,7 @@ When reporting a bug, include:
 
 Open an issue here:
 
-👉 **[Report a bug](https://github.com/pigeonthroat-hash/Smart-Pig/issues/new)**
+👉 **[Report a bug](https://github.com/pigeonthroat-hash/Smart-Pigs/issues/new)**
 
 ---
 
@@ -544,7 +544,7 @@ Have an idea for:
 
 Open an issue and describe it.
 
-👉 **[Request a feature](https://github.com/pigeonthroat-hash/Smart-Pig/issues/new)**
+👉 **[Request a feature](https://github.com/pigeonthroat-hash/Smart-Pigs/issues/new)**
 
 ---
 
@@ -653,10 +653,10 @@ For normal use, the latest stable release is recommended.
 
 | Resource            | Link                                                                                |
 | ------------------- | ----------------------------------------------------------------------------------- |
-| 📦 Releases         | [GitHub Releases](https://github.compigeonthroat-hash/Smart-Pig/releases)       |
-| 🐛 Bug reports      | [GitHub Issues](https://github.com/pigeonthroat-hash/Smart-Pig/issues)           |
-| 💡 Feature requests | [GitHub Issues](https://github.com/pigeonthroat-hash/Smart-Pig/issues)           |
-| 💬 Discussions      | [GitHub Discussions](https://github.com/pigeonthroat-hash/Smart-Pig/discussions) |
+| 📦 Releases         | [GitHub Releases](https://github.compigeonthroat-hash/Smart-Pigs/releases)       |
+| 🐛 Bug reports      | [GitHub Issues](https://github.com/pigeonthroat-hash/Smart-Pigs/issues)           |
+| 💡 Feature requests | [GitHub Issues](https://github.com/pigeonthroat-hash/Smart-Pigs/issues)           |
+| 💬 Discussions      | [GitHub Discussions](https://github.com/pigeonthroat-hash/Smart-Pigs/discussions) |
 | 📚 Documentation    | [README.md](#readme) |
 
 ---
