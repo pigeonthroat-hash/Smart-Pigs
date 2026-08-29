@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/pigeonthroat-hash/Unofficial-Fan-Pig-Pet-Mobile-App/main/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" width="180" alt="SmartPigs">
+  <img src="https://raw.githubusercontent.com/pigeonthroat-hash/Smart-Pigs/main/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" width="180" alt="SmartPigs">
 </p>
 
 <h1 align="center">SmartPigs</h1>
@@ -14,28 +14,28 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/pigeonthroat-hash/Unofficial-Fan-Pig-Pet-Mobile-App/releases">Releases</a>
+  <a href="https://github.com/pigeonthroat-hash/Smart-Pigs/releases">Releases</a>
   ·
-  <a href="https://github.com/pigeonthroat-hash/Unofficial-Fan-Pig-Pet-Mobile-App/issues">Issues</a>
+  <a href="https://github.com/pigeonthroat-hash/Smart-Pigs/issues">Issues</a>
   ·
-  <a href="https://github.com/pigeonthroat-hash/Unofficial-Fan-Pig-Pet-Mobile-App/discussions">Discussions</a>
+  <a href="https://github.com/pigeonthroat-hash/Smart-Pigs/discussions">Discussions</a>
 </p>
 
 <p align="center">
-  <a href=https://github.com/pigeonthroat-hash/Unofficial-Fan-Pig-Pet-Mobile-App/releases">
-    <img src="https://img.shields.io/github/release/pigeonthroat-hash/Unofficial-Fan-Pig-Pet-Mobile-App?style=flat-square&label=latest%20release" alt="Latest release">
+  <a href=https://github.com/pigeonthroat-hash/Smart-Pigs/releases">
+    <img src="https://img.shields.io/github/release/pigeonthroat-hash/Smart-Pigs?style=flat-square&label=latest%20release" alt="Latest release">
   </a>
-  <a href="https://github.com/pigeonthroat-hash/Unofficial-Fan-Pig-Pet-Mobile-App/stargazers">
-    <img src="https://img.shields.io/github/stars/pigeonthroat-hash/Unofficial-Fan-Pig-Pet-Mobile-App?style=flat-square" alt="GitHub stars">
+  <a href="https://github.com/pigeonthroat-hash/Smart-Pigs/stargazers">
+    <img src="https://img.shields.io/github/stars/pigeonthroat-hash/Smart-Pigs?style=flat-square" alt="GitHub stars">
   </a>
-  <a href="https://github.com/pigeonthroat-hash/Unofficial-Fan-Pig-Pet-Mobile-App/issues">
-    <img src="https://img.shields.io/github/issues/pigeonthroat-hash/Unofficial-Fan-Pig-Pet-Mobile-App?style=flat-square" alt="GitHub issues">
+  <a href="https://github.com/pigeonthroat-hash/Smart-Pigs/issues">
+    <img src="https://img.shields.io/github/issues/pigeonthroat-hash/Smart-Pigs?style=flat-square" alt="GitHub issues">
   </a>
-  <a href="https://github.com/pigeonthroat-hash/Unofficial-Fan-Pig-Pet-Mobile-App">
-    <img src="https://img.shields.io/github/repo-size/pigeonthroat-hash/Unofficial-Fan-Pig-Pet-Mobile-App?style=flat-square" alt="Repository size">
+  <a href="https://github.com/pigeonthroat-hash/Smart-Pigs">
+    <img src="https://img.shields.io/github/repo-size/pigeonthroat-hash/Smart-Pigs?style=flat-square" alt="Repository size">
   </a>
-  <a href="https://github.com/pigeonthroat-hash/Unofficial-Fan-Pig-Pet-Mobile-App/commits/main">
-    <img src="https://img.shields.io/github/last-commit/pigeonthroat-hash/Unofficial-Fan-Pig-Pet-Mobile-App?style=flat-square" alt="Last commit">
+  <a href="https://github.com/pigeonthroat-hash/Smart-Pigs/commits/main">
+    <img src="https://img.shields.io/github/last-commit/pigeonthroat-hash/Smart-Pigs?style=flat-square" alt="Last commit">
   </a>
 </p>
 
