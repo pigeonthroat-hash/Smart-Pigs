@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Smart Overlay Pigs</string>
+    <string name="notification_title">Pigs are on your screen</string>
+    <string name="notification_text">Tap the circle to open controls. Stop from the app or this notice.</string>
+    <string name="channel_name">Pig overlay</string>
+</resources>

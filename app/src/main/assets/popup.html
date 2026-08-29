@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Smart Overlay Pigs</title>
+  <link rel="stylesheet" href="popup.css" />
+</head>
+<body>
+  <div class="container">
+    <span id="pigCountBadge" class="badge hidden">0</span>
+    <p id="statusText" class="status">Checking overlay…</p>
+
+    <nav class="tabs">
+      <button class="tab on" data-tab="play">Play</button>
+      <button class="tab" data-tab="pigs">Pigs</button>
+      <button class="tab" data-tab="presets">Presets</button>
+    </nav>
+
+    <section id="tab-play">
+      <div class="row">
+        <button id="btnStart" class="btn btn-primary">Start</button>
+        <button id="btnStop" class="btn btn-danger" disabled>Remove</button>
+        <button id="btnRefresh" class="btn btn-secondary" title="Refresh">↻</button>
+      </div>
+      <div class="row wrap">
+        <button id="btnTreats" class="btn btn-treat" disabled>Snacks</button>
+        <button id="btnBall" class="btn btn-call" disabled>Ball</button>
+        <button id="btnTeddy" class="btn btn-call" disabled>Toy</button>
+        <button id="btnCall" class="btn btn-call" disabled>Come</button>
+      </div>
+
+      <div class="panel">
+        <div class="row">
+          <span class="mini">Pigs</span>
+          <button id="btnRemovePig" class="btn btn-small">−</button>
+          <input id="pigCountDisplay" type="number" min="0" step="1" value="2" />
+          <button id="btnAddPig" class="btn btn-small">+</button>
+          <button id="btnAddFive" class="btn btn-small">+5</button>
+        </div>
+        <label class="mini" for="pigSize">Size <span id="pigSizeLabel">168px</span></label>
+        <input id="pigSize" type="range" min="60" max="280" step="2" value="168" />
+        <div class="row">
+          <input type="url" id="imageUrl" placeholder="Pig image URL" />
+          <button id="btnApplyImage" class="btn btn-small">Set</button>
+        </div>
+      </div>
+
+      <div class="panel">
+        <div class="mini">Modifiers</div>
+        <div id="modifierGrid" class="modifier-grid"></div>
+      </div>
+    </section>
+
+    <section id="tab-presets" class="hidden">
+      <div class="panel">
+        <div class="mini">New pig type</div>
+        <input id="presetName" placeholder="Name (Pip Jr)" />
+        <input id="presetImage" type="url" placeholder="Image URL" />
+        <textarea id="presetWords" rows="2" placeholder="Words they say, comma separated"></textarea>
+        <div class="mini">Personality 0–100</div>
+        <label class="mini">Play <input id="pPlay" type="range" min="0" max="100" value="60" /></label>
+        <label class="mini">Curious <input id="pCur" type="range" min="0" max="100" value="60" /></label>
+        <label class="mini">Social <input id="pSoc" type="range" min="0" max="100" value="55" /></label>
+        <label class="mini">Lazy <input id="pLazy" type="range" min="0" max="100" value="30" /></label>
+        <label class="mini">Brave <input id="pBrave" type="range" min="0" max="100" value="50" /></label>
+        <div class="row wrap">
+          <button id="btnSavePreset" class="btn btn-primary btn-small">Save type</button>
+        </div>
+      </div>
+      <div id="presetList" class="pigs-list"></div>
+    </section>
+
+    <section id="tab-pigs" class="hidden">
+      <div id="pigsList" class="pigs-list">
+        <p class="empty-state">Start pigs to see moods and reasons.</p>
+      </div>
+    </section>
+
+    <section id="tab-rig" class="hidden">
+      <p class="rig-help">Click to add points. Drag onto head and legs. Save, then use No gravity.</p>
+      <div class="rig-stage">
+        <img id="rigImage" alt="Pig rig preview" />
+        <canvas id="rigCanvas" width="300" height="300"></canvas>
+      </div>
+      <div class="row wrap">
+        <button id="btnAddJoint" class="btn btn-small">Add</button>
+        <button id="btnDeleteJoint" class="btn btn-small">Delete</button>
+        <button id="btnResetRig" class="btn btn-small">Reset</button>
+        <button id="btnSaveRig" class="btn btn-primary btn-small">Save</button>
+      </div>
+      <p id="rigStatus" class="mini">Default rig loaded. Overlay uses the pig image.</p>
+    </section>
+  </div>
+  <script src="popup.js"></script>
+</body>
+</html>

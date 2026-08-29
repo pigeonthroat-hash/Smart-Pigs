@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.SmartOverlayPigs" parent="Theme.Material3.Light.NoActionBar">
+        <item name="colorPrimary">@color/rose</item>
+        <item name="colorPrimaryDark">@color/rose_deep</item>
+        <item name="colorAccent">@color/rose</item>
+        <item name="android:statusBarColor">@color/rose_deep</item>
+        <item name="android:navigationBarColor">@color/cream</item>
+        <item name="android:windowBackground">@color/cream</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+</resources>
