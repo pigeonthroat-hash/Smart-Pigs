@@ -262,7 +262,7 @@ The exact versions may change as the project develops.
 ## Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_GITHUB_USERNAME/smartpigs.git
+https://github.com/pigeonthroat-hash/Smart-Pigs.git
 cd smartpigs
 ```
 
@@ -308,7 +308,7 @@ For an actual public release, the application should be built and signed using t
 
 ## Android
 
-1. Download the latest APK from the [Releases](https://github.com/YOUR_GITHUB_USERNAME/smartpigs/releases) page.
+1. Download the latest APK from the [Releases](https://github.com/pigeonthroat-hash/Smart-Pigs/releases) page.
 2. Install SmartPigs on your Android device.
 3. Grant the required overlay permission.
 4. Open SmartPigs.
@@ -524,7 +524,7 @@ When reporting a bug, include:
 
 Open an issue here:
 
-👉 **[Report a bug](https://github.com/YOUR_GITHUB_USERNAME/smartpigs/issues/new)**
+👉 **[Report a bug](https://github.com/pigeonthroat-hash/Smart-Pig/issues/new)**
 
 ---
 
@@ -544,7 +544,7 @@ Have an idea for:
 
 Open an issue and describe it.
 
-👉 **[Request a feature](https://github.com/YOUR_GITHUB_USERNAME/smartpigs/issues/new)**
+👉 **[Request a feature](https://github.com/pigeonthroat-hash/Smart-Pig/issues/new)**
 
 ---
 
@@ -641,7 +641,7 @@ Stable releases are published on GitHub.
 
 ### Latest release
 
-👉 **[View Releases](https://github.com/YOUR_GITHUB_USERNAME/smartpigs/releases)**
+👉 **[View Releases](https://github.com/pigeonthroat-hash/Smart-Pig/releases)**
 
 Development builds may contain unfinished or experimental features.
 
@@ -653,11 +653,11 @@ For normal use, the latest stable release is recommended.
 
 | Resource            | Link                                                                                |
 | ------------------- | ----------------------------------------------------------------------------------- |
-| 📦 Releases         | [GitHub Releases](https://github.com/YOUR_GITHUB_USERNAME/smartpigs/releases)       |
-| 🐛 Bug reports      | [GitHub Issues](https://github.com/YOUR_GITHUB_USERNAME/smartpigs/issues)           |
-| 💡 Feature requests | [GitHub Issues](https://github.com/YOUR_GITHUB_USERNAME/smartpigs/issues)           |
-| 💬 Discussions      | [GitHub Discussions](https://github.com/YOUR_GITHUB_USERNAME/smartpigs/discussions) |
-| 📚 Documentation    | [Repository Wiki](https://github.com/YOUR_GITHUB_USERNAME/smartpigs/wiki)           |
+| 📦 Releases         | [GitHub Releases](https://github.compigeonthroat-hash/Smart-Pig/releases)       |
+| 🐛 Bug reports      | [GitHub Issues](https://github.com/pigeonthroat-hash/Smart-Pig/issues)           |
+| 💡 Feature requests | [GitHub Issues](https://github.com/pigeonthroat-hash/Smart-Pig/issues)           |
+| 💬 Discussions      | [GitHub Discussions](https://github.com/pigeonthroat-hash/Smart-Pig/discussions) |
+| 📚 Documentation    | [README.md](#readme) |
 
 ---
 
