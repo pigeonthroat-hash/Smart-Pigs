@@ -653,7 +653,7 @@ For normal use, the latest stable release is recommended.
 
 | Resource            | Link                                                                                |
 | ------------------- | ----------------------------------------------------------------------------------- |
-| 📦 Releases         | [GitHub Releases](https://github.compigeonthroat-hash/Smart-Pigs/releases)       |
+| 📦 Releases         | [GitHub Releases](https://github.com/pigeonthroat-hash/Smart-Pigs/releases)       |
 | 🐛 Bug reports      | [GitHub Issues](https://github.com/pigeonthroat-hash/Smart-Pigs/issues)           |
 | 💡 Feature requests | [GitHub Issues](https://github.com/pigeonthroat-hash/Smart-Pigs/issues)           |
 | 💬 Discussions      | [GitHub Discussions](https://github.com/pigeonthroat-hash/Smart-Pigs/discussions) |
