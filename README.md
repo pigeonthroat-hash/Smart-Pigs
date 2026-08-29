@@ -14,28 +14,28 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME/smartpigs/releases">Releases</a>
+  <a href="https://github.com/pigeonthroat-hash/Unofficial-Fan-Pig-Pet-Mobile-App/releases">Releases</a>
   ·
-  <a href="https://github.com/YOUR_GITHUB_USERNAME/smartpigs/issues">Issues</a>
+  <a href="https://github.com/pigeonthroat-hash/Unofficial-Fan-Pig-Pet-Mobile-App/issues">Issues</a>
   ·
-  <a href="https://github.com/YOUR_GITHUB_USERNAME/smartpigs/discussions">Discussions</a>
+  <a href="https://github.com/pigeonthroat-hash/Unofficial-Fan-Pig-Pet-Mobile-App/discussions">Discussions</a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME/smartpigs/releases">
-    <img src="https://img.shields.io/github/v/release/YOUR_GITHUB_USERNAME/smartpigs?style=flat-square&label=latest%20release" alt="Latest release">
+  <a href=https://github.com/pigeonthroat-hash/Unofficial-Fan-Pig-Pet-Mobile-App/releases">
+    <img src="https://img.shields.io/github/release/pigeonthroat-hash/Unofficial-Fan-Pig-Pet-Mobile-App?style=flat-square&label=latest%20release" alt="Latest release">
   </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME/smartpigs/stargazers">
-    <img src="https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME/smartpigs?style=flat-square" alt="GitHub stars">
+  <a href="https://github.com/pigeonthroat-hash/Unofficial-Fan-Pig-Pet-Mobile-App/stargazers">
+    <img src="https://img.shields.io/github/stars/pigeonthroat-hash/Unofficial-Fan-Pig-Pet-Mobile-App?style=flat-square" alt="GitHub stars">
   </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME/smartpigs/issues">
-    <img src="https://img.shields.io/github/issues/YOUR_GITHUB_USERNAME/smartpigs?style=flat-square" alt="GitHub issues">
+  <a href="https://github.com/pigeonthroat-hash/Unofficial-Fan-Pig-Pet-Mobile-App/issues">
+    <img src="https://img.shields.io/github/issues/pigeonthroat-hash/Unofficial-Fan-Pig-Pet-Mobile-App?style=flat-square" alt="GitHub issues">
   </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME/smartpigs">
-    <img src="https://img.shields.io/github/repo-size/YOUR_GITHUB_USERNAME/smartpigs?style=flat-square" alt="Repository size">
+  <a href="https://github.com/pigeonthroat-hash/Unofficial-Fan-Pig-Pet-Mobile-App">
+    <img src="https://img.shields.io/github/repo-size/pigeonthroat-hash/Unofficial-Fan-Pig-Pet-Mobile-App?style=flat-square" alt="Repository size">
   </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME/smartpigs/commits/master">
-    <img src="https://img.shields.io/github/last-commit/YOUR_GITHUB_USERNAME/smartpigs?style=flat-square" alt="Last commit">
+  <a href="https://github.com/pigeonthroat-hash/Unofficial-Fan-Pig-Pet-Mobile-App/commits/main">
+    <img src="https://img.shields.io/github/last-commit/pigeonthroat-hash/Unofficial-Fan-Pig-Pet-Mobile-App?style=flat-square" alt="Last commit">
   </a>
 </p>
 
